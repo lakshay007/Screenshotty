@@ -63,3 +63,7 @@ Under 500 lines of Swift, no dependencies:
 | `Sources/PreviewPanel.swift` | The floating card (SwiftUI inside a non-activating panel) |
 | `Sources/AppDelegate.swift` | Menu bar item and launch at login |
 | `build.sh` | Compiles with `swiftc`, assembles the `.app` bundle, signs it |
+
+## License
+
+[MIT](LICENSE)
